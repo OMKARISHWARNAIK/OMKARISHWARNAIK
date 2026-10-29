@@ -1,7 +1,7 @@
 <div align="center">
 
 # Omkar Ishwar Naik
-### Software Engineer @ ISG Labs &bull; Computer Science & Engineering (2026 Graduate)
+### working @ ISG Labs &bull; Computer Science & Engineering (2026 Graduate)
 
 <p align="center">
   <em>Architecting production-grade Java full-stack systems, polyglot databases, and applied AI/computer vision pipelines.</em>
