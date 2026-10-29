@@ -171,7 +171,7 @@ I prioritize clean architecture, strict data integrity, measurable performance o
 
 - **Direct Email:** [omkarnamadhari2147@gmail.com](mailto:omkarnamadhari2147@gmail.com)
 - **GitHub:** [@OMKARISHWARNAIK](https://github.com/OMKARISHWARNAIK)
-- **Current Position:**working at **ISG Labs**
+- **Current Position:** [working at **ISG Labs**]
 - **Education:** B.E. in Computer Science and Engineering (Class of 2026)
 
 <p align="center">
