@@ -70,7 +70,7 @@ I prioritize clean architecture, strict data integrity, measurable performance o
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧬 <a href="https://github.com/OMKARISHWARNAIK/flappy-bird_NEAT_">NeuroEvolution Flight Controller (NEAT)</a></h3>
+      <h3>🧬 <a href="https://github.com/OMKARISHWARNAIK/flappy-bird_NEAT">NeuroEvolution Flight Controller (NEAT)</a></h3>
       <p><strong>Genetic Algorithm-Driven Autonomous Topology Mutation</strong></p>
       <p>Implements NeuroEvolution of Augmenting Topologies (NEAT) to train autonomous agents in continuous dynamic environments.</p>
       <ul>
